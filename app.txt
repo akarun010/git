@@ -1,2 +1,4 @@
 My Git Project
 Version 1
+Version 2
+Added login feature
